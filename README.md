@@ -1,2 +1,2 @@
 # react-compartir-useState
-Created with CodeSandbox
+![captura](https://i.imgur.com/dfi9STX.png)
